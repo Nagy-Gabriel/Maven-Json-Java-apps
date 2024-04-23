@@ -17,8 +17,7 @@ Se vor implementa clasele:
 - Clasa Mobilier, cu variabilele membre
 o nume (String)
 o lista plăcilor care o compun List<Placa> placi;
-Programare Java, Laborator 5
-8
+
 - Clasa Placa
 o descriere (String cu valori precum usa, capac, laterală, raft mobil, raft fix, etc)
 o lungime în milimetri (întreg)
